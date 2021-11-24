@@ -17,4 +17,4 @@ therefore, I used some libraries:
 - `Styled Components`
 - `Ant designe`
 
-### Thank you very much for visiting my GitHub
+### Thank you very much for visiting my GitHub :+1:

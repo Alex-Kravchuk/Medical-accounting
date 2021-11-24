@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/medical-accounting/static/js/main.089fe3ec.chunk.js",
-    "main.js.map": "/medical-accounting/static/js/main.089fe3ec.chunk.js.map",
-    "runtime-main.js": "/medical-accounting/static/js/runtime-main.2e8d29ec.js",
-    "runtime-main.js.map": "/medical-accounting/static/js/runtime-main.2e8d29ec.js.map",
-    "static/css/2.a95be28f.chunk.css": "/medical-accounting/static/css/2.a95be28f.chunk.css",
-    "static/js/2.93e44a69.chunk.js": "/medical-accounting/static/js/2.93e44a69.chunk.js",
-    "static/js/2.93e44a69.chunk.js.map": "/medical-accounting/static/js/2.93e44a69.chunk.js.map",
-    "index.html": "/medical-accounting/index.html",
-    "static/css/2.a95be28f.chunk.css.map": "/medical-accounting/static/css/2.a95be28f.chunk.css.map",
-    "static/js/2.93e44a69.chunk.js.LICENSE.txt": "/medical-accounting/static/js/2.93e44a69.chunk.js.LICENSE.txt",
-    "static/media/medical_add.0f3600ed.png": "/medical-accounting/static/media/medical_add.0f3600ed.png",
-    "static/media/remove_user.77f4dfb4.png": "/medical-accounting/static/media/remove_user.77f4dfb4.png",
-    "static/media/sergeants.ee1aed22.png": "/medical-accounting/static/media/sergeants.ee1aed22.png"
+    "main.js": "/Medical-accounting/static/js/main.c73e3b2c.chunk.js",
+    "main.js.map": "/Medical-accounting/static/js/main.c73e3b2c.chunk.js.map",
+    "runtime-main.js": "/Medical-accounting/static/js/runtime-main.fcc012d9.js",
+    "runtime-main.js.map": "/Medical-accounting/static/js/runtime-main.fcc012d9.js.map",
+    "static/css/2.a95be28f.chunk.css": "/Medical-accounting/static/css/2.a95be28f.chunk.css",
+    "static/js/2.7eaa1f6a.chunk.js": "/Medical-accounting/static/js/2.7eaa1f6a.chunk.js",
+    "static/js/2.7eaa1f6a.chunk.js.map": "/Medical-accounting/static/js/2.7eaa1f6a.chunk.js.map",
+    "index.html": "/Medical-accounting/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/Medical-accounting/static/css/2.a95be28f.chunk.css.map",
+    "static/js/2.7eaa1f6a.chunk.js.LICENSE.txt": "/Medical-accounting/static/js/2.7eaa1f6a.chunk.js.LICENSE.txt",
+    "static/media/medical_add.0f3600ed.png": "/Medical-accounting/static/media/medical_add.0f3600ed.png",
+    "static/media/remove_user.77f4dfb4.png": "/Medical-accounting/static/media/remove_user.77f4dfb4.png",
+    "static/media/sergeants.ee1aed22.png": "/Medical-accounting/static/media/sergeants.ee1aed22.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e8d29ec.js",
+    "static/js/runtime-main.fcc012d9.js",
     "static/css/2.a95be28f.chunk.css",
-    "static/js/2.93e44a69.chunk.js",
-    "static/js/main.089fe3ec.chunk.js"
+    "static/js/2.7eaa1f6a.chunk.js",
+    "static/js/main.c73e3b2c.chunk.js"
   ]
 }
